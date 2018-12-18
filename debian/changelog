@@ -1,4 +1,4 @@
-coturn (4.5.0.8-1) unstable; urgency=medium
+coturn (4.5.0.8~bpo9+1) stretch-backports; urgency=medium
 
   [ Ferenc Wágner ]
   * [2239059] Adopt DEP-14 repo structure
